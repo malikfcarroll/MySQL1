@@ -1,0 +1,14 @@
+#Data Source: https://www.kaggle.com/gregorut/videogamesales
+#Description: Dataset contains a list of video games with sales greater than 100,000 copies (through 2016)
+#Fields: Rank, Name, Platform, Year, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales
+#Rank: Overall sales ranking
+#Name: Name of the game
+#Platform: Platform game was released on
+#Year: Year the game was released
+#Genre: Genre of the game
+#Publisher: Publisher of the game
+#NA_Sales: Sales in North America (in millions)
+#EU_Sales: Sales in Europe (in millions)
+#JP_Sales: Sales in Japan (in millions)
+#Other_Sales: Sales in the rest of the world (in millions)
+#Global_Sales: Total worldwide sales
